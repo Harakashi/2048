@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     
-    <title>2048/index.html at master · Harakashi/2048</title>
+    <title>2048/tiles/16.gif at master · Harakashi/2048</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -31,7 +31,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient />
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="52C034B4:32FA:201B981:53D00978" name="octolytics-dimension-request_id" /><meta content="8244308" name="octolytics-actor-id" /><meta content="Harakashi" name="octolytics-actor-login" /><meta content="b84ac4088759abcb579db6c62dd4cc798c4d2113470c3c9a373a4556905813ee" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="52C034B4:32F8:15748A3:53D0092B" name="octolytics-dimension-request_id" /><meta content="8244308" name="octolytics-actor-id" /><meta content="Harakashi" name="octolytics-actor-login" /><meta content="b84ac4088759abcb579db6c62dd4cc798c4d2113470c3c9a373a4556905813ee" name="octolytics-actor-hash" />
     
 
     
@@ -40,7 +40,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="s5fnyOyAN1qnBfej6pbzQEJzoaUWdd0nQfM3yide1LCZmVO2wgodC/+iKu+H6fNdpJQRv3WDA+1x8g9cxHs31w==" name="csrf-token" />
+<meta content="8XO6H+d1gnddul8M4qFdR9g2OaP/GdxA9N15Zmj6FkYQthmKSqRkA4lVkhs15trP9gjGNios9NG9UU/jnQIbzg==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-09afce370321167e200512d5ef76480e0bfac52f.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-bd8f99f7c75e44c30bc3dbe7291f0ebdc7977b02.css" media="all" rel="stylesheet" type="text/css" />
@@ -164,7 +164,7 @@
     </a>
   </li>
   <li>
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="XIZ9p7fiG02wbyVt/EXwd67OgKqJUjmNVe7hJGiGxvlchuUfMRAqM6GKDb/Vq/ic1PHyuCtnFYJNZB7Hmm4ygw==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="MiN4Ng/JYpT7rYQG5JcQPJGH7kCnYye4L2qOoqmBszDJVXYyOcYV2oppgQqnXxRkUj16c7NCY2hNcpYfn6Gfnw==" /></div>
       <button class="sign-out-button tooltipped tooltipped-s" aria-label="Sign out">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -219,7 +219,7 @@
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="T7/Zqcu32w8K4Mo9RQ5CSkCO3M8uoJYpHiVGMgNdLd78zvdEKE5zDYl59jXlrGSRS/5DOTXHnlXLva8y9mXt9w==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="22169753" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="hCYy+GP6ZPlZ0mxtN0Ej86M6S4op+oJMAs5rvSxbohr7qENXu+rY4E6E/a9zY9QVNzrXpB+1sJmgEJ2vGAIzXA==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="22169753" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/Harakashi/2048/watchers">
@@ -295,7 +295,7 @@
 
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/Harakashi/2048/unstar" class="js-toggler-form starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="bu1VEmdnqUx2TCgfMswWFz/js446LXELLdHJqGgDW+hHWQ6GLHkcFarR6c3EWnWzJfhxI4U/3UJWF61I+r8t/g==" /></div>
+    <form accept-charset="UTF-8" action="/Harakashi/2048/unstar" class="js-toggler-form starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="blET/Zl3lxj6nq9xmJuonJRkOu6Qu4Z5mnjq4MitqPuch3n3zNUZhuApWVNBkKath/15aKNoW+ycR5UN5yuAdw==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar Harakashi/2048">
@@ -306,7 +306,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/Harakashi/2048/star" class="js-toggler-form unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="+bI5NebN8Sr7mvWIif2GL7+j3zuD6L/AKlp36tUzDXcRiSHHXyek7I6faDXjs3Ic54hz7aROUVkcJGhHZ7ZbLQ==" /></div>
+    <form accept-charset="UTF-8" action="/Harakashi/2048/star" class="js-toggler-form unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="83vgyLd0uz7aZ1K4j5Kw4a887ma/zWM9ToAoOJlrTSFDqqgoW0raw6Nv7do+pcPz4TeqjbmjvvdNndJd/ez0aQ==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star Harakashi/2048">
@@ -485,9 +485,9 @@
           
 
 
-<a href="/Harakashi/2048/blob/5976f3ec10400948d10643b0ed4352aa8fa6d76d/index.html" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Harakashi/2048/blob/5976f3ec10400948d10643b0ed4352aa8fa6d76d/tiles/16.gif" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:5584c2373550fd8a552285a7648b55ad -->
+<!-- blob contrib key: blob_contributors:v21:6b3b112f783719308572742698cb9a83 -->
 
 <p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
 
@@ -536,7 +536,7 @@
 
             <div class="select-menu-item js-navigation-item ">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Harakashi/2048/blob/gh-pages/index.html"
+              <a href="/Harakashi/2048/blob/gh-pages/tiles/16.gif"
                  data-name="gh-pages"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -545,7 +545,7 @@
             </div> <!-- /.select-menu-item -->
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Harakashi/2048/blob/master/index.html"
+              <a href="/Harakashi/2048/blob/master/tiles/16.gif"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -554,7 +554,7 @@
             </div> <!-- /.select-menu-item -->
         </div>
 
-          <form accept-charset="UTF-8" action="/Harakashi/2048/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="dlWa6/Um0IrGcyx/F68Gdj4vbMTyNf9Xzv9JHIv6XwsgdtTBzzOkRTXJGK8AAfgPYlXTuSRxO4ht/pFaKJmKqw==" /></div>
+          <form accept-charset="UTF-8" action="/Harakashi/2048/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="nY7O8Ek81NrbD0+TdWaXqcx2cDRczvvU7AbTFavNGKy/Vo+R2aiOVnqmkbkkngwN/Zeri6Q0DO2d8xVaaWjojg==" /></div>
             <span class="octicon octicon-git-branch select-menu-item-icon"></span>
             <div class="select-menu-item-text">
               <h4>Create branch: <span class="js-new-item-name"></span></h4>
@@ -562,7 +562,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master" />
-            <input type="hidden" name="path" id="path" value="index.html" />
+            <input type="hidden" name="path" id="path" value="tiles/16.gif" />
           </form> <!-- /.select-menu-item -->
 
       </div> <!-- /.select-menu-list -->
@@ -589,7 +589,7 @@
       <span class="octicon octicon-list-unordered"></span>
     </a>
     <button class="js-zeroclipboard minibutton zeroclipboard-button"
-          data-clipboard-text="index.html"
+          data-clipboard-text="tiles/16.gif"
           aria-label="Copy to clipboard"
           data-copied-hint="Copied!">
       <span class="octicon octicon-clippy"></span>
@@ -597,12 +597,12 @@
   </div>
 
   <div class="breadcrumb">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Harakashi/2048/tree/master" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">2048</span></a></span></span><span class="separator"> / </span><strong class="final-path">index.html</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Harakashi/2048/tree/master" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">2048</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Harakashi/2048/tree/master/tiles" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">tiles</span></a></span><span class="separator"> / </span><strong class="final-path">16.gif</strong>
   </div>
 </div>
 
 
-  <div class="commit commit-loader file-history-tease js-deferred-content" data-url="/Harakashi/2048/contributors/master/index.html">
+  <div class="commit commit-loader file-history-tease js-deferred-content" data-url="/Harakashi/2048/contributors/master/tiles/16.gif">
     Fetching contributors…
 
     <div class="participation">
@@ -618,26 +618,20 @@
         <span class="icon"><b class="octicon octicon-file-text"></b></span>
         <span class="mode" title="File Mode">file</span>
         <span class="meta-divider"></span>
-          <span>96 lines (86 sloc)</span>
-          <span class="meta-divider"></span>
-        <span>3.855 kb</span>
+        <span>1.093 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
             <a class="minibutton tooltipped tooltipped-w"
-               href="github-windows://openRepo/https://github.com/Harakashi/2048?branch=master&amp;filepath=index.html" aria-label="Open this file in GitHub for Windows">
+               href="github-windows://openRepo/https://github.com/Harakashi/2048?branch=master&amp;filepath=tiles%2F16.gif" aria-label="Open this file in GitHub for Windows">
                 <span class="octicon octicon-device-desktop"></span> Open
             </a>
-                <a class="minibutton js-update-url-with-hash"
-                   href="/Harakashi/2048/edit/master/index.html"
-                   data-method="post" rel="nofollow" data-hotkey="e">Edit</a>
-          <a href="/Harakashi/2048/raw/master/index.html" class="minibutton " id="raw-url">Raw</a>
-            <a href="/Harakashi/2048/blame/master/index.html" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/Harakashi/2048/commits/master/index.html" class="minibutton " rel="nofollow">History</a>
+          <a href="/Harakashi/2048/raw/master/tiles/16.gif" class="minibutton " id="raw-url">Raw</a>
+          <a href="/Harakashi/2048/commits/master/tiles/16.gif" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
             <a class="minibutton danger empty-icon"
-               href="/Harakashi/2048/delete/master/index.html"
+               href="/Harakashi/2048/delete/master/tiles/16.gif"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
 
           Delete
@@ -645,110 +639,10 @@
       </div><!-- /.actions -->
     </div>
       
-  <div class="blob-wrapper data type-html js-blob-data">
-       <table class="file-code file-diff tab-size-8">
-         <tr class="file-code-line">
-           <td class="blob-line-nums">
-             <span id="L1" rel="#L1">1</span>
-<span id="L2" rel="#L2">2</span>
-<span id="L3" rel="#L3">3</span>
-<span id="L4" rel="#L4">4</span>
-<span id="L5" rel="#L5">5</span>
-<span id="L6" rel="#L6">6</span>
-<span id="L7" rel="#L7">7</span>
-<span id="L8" rel="#L8">8</span>
-<span id="L9" rel="#L9">9</span>
-<span id="L10" rel="#L10">10</span>
-<span id="L11" rel="#L11">11</span>
-<span id="L12" rel="#L12">12</span>
-<span id="L13" rel="#L13">13</span>
-<span id="L14" rel="#L14">14</span>
-<span id="L15" rel="#L15">15</span>
-<span id="L16" rel="#L16">16</span>
-<span id="L17" rel="#L17">17</span>
-<span id="L18" rel="#L18">18</span>
-<span id="L19" rel="#L19">19</span>
-<span id="L20" rel="#L20">20</span>
-<span id="L21" rel="#L21">21</span>
-<span id="L22" rel="#L22">22</span>
-<span id="L23" rel="#L23">23</span>
-<span id="L24" rel="#L24">24</span>
-<span id="L25" rel="#L25">25</span>
-<span id="L26" rel="#L26">26</span>
-<span id="L27" rel="#L27">27</span>
-<span id="L28" rel="#L28">28</span>
-<span id="L29" rel="#L29">29</span>
-<span id="L30" rel="#L30">30</span>
-<span id="L31" rel="#L31">31</span>
-<span id="L32" rel="#L32">32</span>
-<span id="L33" rel="#L33">33</span>
-<span id="L34" rel="#L34">34</span>
-<span id="L35" rel="#L35">35</span>
-<span id="L36" rel="#L36">36</span>
-<span id="L37" rel="#L37">37</span>
-<span id="L38" rel="#L38">38</span>
-<span id="L39" rel="#L39">39</span>
-<span id="L40" rel="#L40">40</span>
-<span id="L41" rel="#L41">41</span>
-<span id="L42" rel="#L42">42</span>
-<span id="L43" rel="#L43">43</span>
-<span id="L44" rel="#L44">44</span>
-<span id="L45" rel="#L45">45</span>
-<span id="L46" rel="#L46">46</span>
-<span id="L47" rel="#L47">47</span>
-<span id="L48" rel="#L48">48</span>
-<span id="L49" rel="#L49">49</span>
-<span id="L50" rel="#L50">50</span>
-<span id="L51" rel="#L51">51</span>
-<span id="L52" rel="#L52">52</span>
-<span id="L53" rel="#L53">53</span>
-<span id="L54" rel="#L54">54</span>
-<span id="L55" rel="#L55">55</span>
-<span id="L56" rel="#L56">56</span>
-<span id="L57" rel="#L57">57</span>
-<span id="L58" rel="#L58">58</span>
-<span id="L59" rel="#L59">59</span>
-<span id="L60" rel="#L60">60</span>
-<span id="L61" rel="#L61">61</span>
-<span id="L62" rel="#L62">62</span>
-<span id="L63" rel="#L63">63</span>
-<span id="L64" rel="#L64">64</span>
-<span id="L65" rel="#L65">65</span>
-<span id="L66" rel="#L66">66</span>
-<span id="L67" rel="#L67">67</span>
-<span id="L68" rel="#L68">68</span>
-<span id="L69" rel="#L69">69</span>
-<span id="L70" rel="#L70">70</span>
-<span id="L71" rel="#L71">71</span>
-<span id="L72" rel="#L72">72</span>
-<span id="L73" rel="#L73">73</span>
-<span id="L74" rel="#L74">74</span>
-<span id="L75" rel="#L75">75</span>
-<span id="L76" rel="#L76">76</span>
-<span id="L77" rel="#L77">77</span>
-<span id="L78" rel="#L78">78</span>
-<span id="L79" rel="#L79">79</span>
-<span id="L80" rel="#L80">80</span>
-<span id="L81" rel="#L81">81</span>
-<span id="L82" rel="#L82">82</span>
-<span id="L83" rel="#L83">83</span>
-<span id="L84" rel="#L84">84</span>
-<span id="L85" rel="#L85">85</span>
-<span id="L86" rel="#L86">86</span>
-<span id="L87" rel="#L87">87</span>
-<span id="L88" rel="#L88">88</span>
-<span id="L89" rel="#L89">89</span>
-<span id="L90" rel="#L90">90</span>
-<span id="L91" rel="#L91">91</span>
-<span id="L92" rel="#L92">92</span>
-<span id="L93" rel="#L93">93</span>
-<span id="L94" rel="#L94">94</span>
-<span id="L95" rel="#L95">95</span>
-
-           </td>
-           <td class="blob-line-code"><div class="code-body highlight"><pre><div class='line' id='LC1'><span class="cp">&lt;!DOCTYPE html&gt;</span></div><div class='line' id='LC2'><span class="nt">&lt;html&gt;</span></div><div class='line' id='LC3'><span class="nt">&lt;head&gt;</span></div><div class='line' id='LC4'>&nbsp;&nbsp;<span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">&quot;utf-8&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC5'>&nbsp;&nbsp;<span class="nt">&lt;title&gt;</span>Merging Images<span class="nt">&lt;/title&gt;</span></div><div class='line' id='LC6'><br/></div><div class='line' id='LC7'>&nbsp;&nbsp;<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;style/main.css&quot;</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">type=</span><span class="s">&quot;text/css&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC8'>&nbsp;&nbsp;<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;shortcut icon&quot;</span> <span class="na">href=</span><span class="s">&quot;favicon.ico&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC9'>&nbsp;&nbsp;<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;apple-touch-icon&quot;</span> <span class="na">href=</span><span class="s">&quot;meta/apple-touch-icon.png&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC10'>&nbsp;&nbsp;<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;apple-touch-startup-image&quot;</span> <span class="na">href=</span><span class="s">&quot;meta/apple-touch-startup-image-640x1096.png&quot;</span> <span class="na">media=</span><span class="s">&quot;(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)&quot;</span><span class="nt">&gt;</span> <span class="c">&lt;!-- iPhone 5+ --&gt;</span></div><div class='line' id='LC11'>&nbsp;&nbsp;<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;apple-touch-startup-image&quot;</span> <span class="na">href=</span><span class="s">&quot;meta/apple-touch-startup-image-640x920.png&quot;</span>  <span class="na">media=</span><span class="s">&quot;(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)&quot;</span><span class="nt">&gt;</span> <span class="c">&lt;!-- iPhone, retina --&gt;</span></div><div class='line' id='LC12'>&nbsp;&nbsp;<span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">&quot;apple-mobile-web-app-capable&quot;</span> <span class="na">content=</span><span class="s">&quot;yes&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC13'>&nbsp;&nbsp;<span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">&quot;apple-mobile-web-app-status-bar-style&quot;</span> <span class="na">content=</span><span class="s">&quot;black&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC14'><br/></div><div class='line' id='LC15'>&nbsp;&nbsp;<span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">&quot;HandheldFriendly&quot;</span> <span class="na">content=</span><span class="s">&quot;True&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC16'>&nbsp;&nbsp;<span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">&quot;MobileOptimized&quot;</span> <span class="na">content=</span><span class="s">&quot;320&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC17'>&nbsp;&nbsp;<span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">&quot;viewport&quot;</span> <span class="na">content=</span><span class="s">&quot;width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC18'><span class="nt">&lt;/head&gt;</span></div><div class='line' id='LC19'><span class="nt">&lt;body&gt;</span></div><div class='line' id='LC20'>&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;container&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC21'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;heading&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC22'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;h1</span> <span class="na">class=</span><span class="s">&quot;title&quot;</span><span class="nt">&gt;&lt;img</span> <span class="na">src=</span><span class="s">&quot;tiles/title.gif&quot;</span> <span class="na">width=</span><span class="s">&quot;228&quot;</span> <span class="na">height=</span><span class="s">&quot;107&quot;</span> <span class="na">alt=</span><span class="s">&quot;&quot;</span><span class="nt">&gt;&lt;/h1&gt;</span></div><div class='line' id='LC23'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;scores-container&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC24'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;score-container&quot;</span><span class="nt">&gt;</span>0<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC25'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;best-container&quot;</span><span class="nt">&gt;</span>0<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC26'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC27'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC28'><br/></div><div class='line' id='LC29'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;above-game&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC30'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">&quot;game-intro&quot;</span><span class="nt">&gt;</span>Join the pictures and get to the <span class="nt">&lt;strong&gt;</span>last image!<span class="nt">&lt;/strong&gt;&lt;/p&gt;</span></div><div class='line' id='LC31'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">&quot;restart-button&quot;</span><span class="nt">&gt;</span>New Game<span class="nt">&lt;/a&gt;</span></div><div class='line' id='LC32'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC33'><br/></div><div class='line' id='LC34'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;game-container&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC35'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;game-message&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC36'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;p&gt;&lt;/p&gt;</span></div><div class='line' id='LC37'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;lower&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC38'>	        <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">&quot;keep-playing-button&quot;</span><span class="nt">&gt;</span>Keep going<span class="nt">&lt;/a&gt;</span></div><div class='line' id='LC39'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">&quot;retry-button&quot;</span><span class="nt">&gt;</span>Try again<span class="nt">&lt;/a&gt;</span></div><div class='line' id='LC40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC41'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC42'><br/></div><div class='line' id='LC43'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-container&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC44'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-row&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC45'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC46'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC47'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC48'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC49'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC50'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-row&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC51'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC52'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC53'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC54'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC55'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC56'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-row&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC57'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC58'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC59'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC60'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC61'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC62'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-row&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC63'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC64'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC65'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC66'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;grid-cell&quot;</span><span class="nt">&gt;&lt;/div&gt;</span></div><div class='line' id='LC67'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC68'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC69'><br/></div><div class='line' id='LC70'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;tile-container&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC71'><br/></div><div class='line' id='LC72'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC73'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC74'><br/></div><div class='line' id='LC75'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">&quot;game-explanation&quot;</span><span class="nt">&gt;</span></div><div class='line' id='LC76'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;strong</span> <span class="na">class=</span><span class="s">&quot;important&quot;</span><span class="nt">&gt;</span>How to play:<span class="nt">&lt;/strong&gt;</span> Use your <span class="nt">&lt;strong&gt;</span>arrow keys<span class="nt">&lt;/strong&gt;</span> to move the tiles. When two tiles with the same image touch, they <span class="nt">&lt;strong&gt;</span>merge into one!<span class="nt">&lt;/strong&gt;</span></div><div class='line' id='LC77'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/p&gt;</span></div><div class='line' id='LC78'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;hr&gt;</span></div><div class='line' id='LC79'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;p&gt;</span></div><div class='line' id='LC80'>&nbsp;&nbsp;&nbsp;&nbsp;This is a clone of <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://gabrielecirulli.github.io/2048/&quot;</span> <span class="na">target=</span><span class="s">&quot;_blank&quot;</span><span class="nt">&gt;</span>2048<span class="nt">&lt;/a&gt;</span> by <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://gabrielecirulli.com&quot;</span> <span class="na">target=</span><span class="s">&quot;_blank&quot;</span><span class="nt">&gt;</span>Gabriele Cirulli.<span class="nt">&lt;/a&gt;</span> Based on <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://itunes.apple.com/us/app/1024!/id823499224&quot;</span> <span class="na">target=</span><span class="s">&quot;_blank&quot;</span><span class="nt">&gt;</span>1024 by Veewo Studio<span class="nt">&lt;/a&gt;</span> and conceptually similar to <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://asherv.com/threes/&quot;</span> <span class="na">target=</span><span class="s">&quot;_blank&quot;</span><span class="nt">&gt;</span>Threes by Asher Vollmer.<span class="nt">&lt;/a&gt;</span></div><div class='line' id='LC81'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/p&gt;</span></div><div class='line' id='LC82'>&nbsp;&nbsp;<span class="nt">&lt;/div&gt;</span></div><div class='line' id='LC83'><br/></div><div class='line' id='LC84'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/bind_polyfill.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC85'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/classlist_polyfill.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC86'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/animframe_polyfill.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC87'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/keyboard_input_manager.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC88'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/html_actuator.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC89'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/grid.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC90'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/tile.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC91'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/local_storage_manager.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC92'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/game_manager.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC93'>&nbsp;&nbsp;<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">&quot;js/application.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span></div><div class='line' id='LC94'><span class="nt">&lt;/body&gt;</span></div><div class='line' id='LC95'><span class="nt">&lt;/html&gt;</span></div></pre></div></td>
-         </tr>
-       </table>
+  <div class="blob-wrapper data type-text js-blob-data">
+      <div class="image js-image">
+          <span class="border-wrap"><img src="https://raw.githubusercontent.com/Harakashi/2048/master/tiles/16.gif" alt="tiles/16.gif" /></span>
+      </div>
   </div>
 
   </div>
@@ -789,7 +683,7 @@
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.04668s from github-fe135-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.04424s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
