@@ -315,10 +315,10 @@ hr {
     background: url(../tiles/2.gif);
     }
   .tile.tile-4 .tile-inner {
-    background: url(../tiles/4.gif);
+    background: url(../tiles/4.png);
     }
   .tile.tile-8 .tile-inner {
-    background: url(../tiles/8.gif);
+    background: url(../tiles/8.jpg);
     }
   .tile.tile-16 .tile-inner {
     background: url(../tiles/16.gif);
